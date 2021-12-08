@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       path: Ohad2Levy/jfrog-pipelines-maven-sample
-      gitProvider: GitHubIntegration
+      gitProvider: s_gitHub
 
   - name: mvn_build_info
     type: BuildInfo
