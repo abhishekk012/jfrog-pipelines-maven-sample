@@ -2,7 +2,7 @@ resources:
   - name: mvn_repo
     type: GitRepo
     configuration:
-      path: Ohad2Levy/jfrog-pipelines-maven-sample
+      path: abhishekk012/jfrog-pipelines-maven-sample
       gitProvider: s_gitHub
 
   - name: mvn_build_info
